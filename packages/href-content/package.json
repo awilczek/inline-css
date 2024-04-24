@@ -17,6 +17,6 @@
   "license": "MIT",
   "homepage": "https://github.com/jonkemp/inline-css/tree/master/packages/href-content",
   "dependencies": {
-    "remote-content": "^4.0.0"
+    "remote-content": "github:awilczek/remote-content#7e881af26d6c381f7ce76718dd698b9e43bad2a3"
   }
 }
